@@ -11,3 +11,4 @@ if(no==sum):
     print("it is armstrong number")
 else:
     print("it is not armstrong numbet")
+    
