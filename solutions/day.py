@@ -16,3 +16,4 @@ elif(a==7):
 else:
     print("there are no day")
     
+    
